@@ -1,3 +1,5 @@
+// CORRECT
+
 import java.util.*;
 
 public class Problem00 {
