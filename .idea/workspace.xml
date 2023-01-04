@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa57faf8-cd0d-4d5a-96af-d78d7791c804" name="Changes" comment="did some cool problems wooo">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="fa57faf8-cd0d-4d5a-96af-d78d7791c804" name="Changes" comment="Added correct status to Problems 0 &amp; 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeQuestAcademy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LockheedMartinQuest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem00.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem00.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problem01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Problem02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problem02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +45,22 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Computer\IdeaProjects\LockheedMartinQuest\resources\input" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem02" />
+      <module name="LockheedMartinQuest" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/resources/input/02/1.in" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672789933097</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added correct status to Problems 0 &amp; 1">
+      <created>1672791123476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672791123476</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added correct status to Problems 0 &amp; 1">
+      <created>1672791144957</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672791144957</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="did some cool problems wooo" />
-    <option name="LAST_COMMIT_MESSAGE" value="did some cool problems wooo" />
+    <MESSAGE value="Added correct status to Problems 0 &amp; 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added correct status to Problems 0 &amp; 1" />
   </component>
 </project>
