@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa57faf8-cd0d-4d5a-96af-d78d7791c804" name="Changes" comment="Problem 2 correct $_$">
-      <change afterPath="$PROJECT_DIR$/src/Problem03.java" afterDir="false" />
+    <list default="true" id="fa57faf8-cd0d-4d5a-96af-d78d7791c804" name="Changes" comment="Problem 3 correct 0_0 note to self you could use .char().filter(ch -&gt; ch == 'a' .. etc).count()">
+      <change afterPath="$PROJECT_DIR$/resources/input/04/1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Problem04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +14,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -54,11 +56,11 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem02" />
+    <configuration name="Problem04" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem04" />
       <module name="LockheedMartinQuest" />
       <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="$PROJECT_DIR$/resources/input/02/1.in" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/resources/input/04/1.in" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672793009998</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Problem 3 correct 0_0 note to self you could use .char().filter(ch -&gt; ch == 'a' .. etc).count()">
+      <created>1672799751019</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672799751019</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +136,10 @@
     <MESSAGE value="did some cool problems wooo" />
     <MESSAGE value="Added correct status to Problems 0 &amp; 1" />
     <MESSAGE value="Problem 2 correct $_$" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 2 correct $_$" />
+    <MESSAGE value="Problem 3 correct 0_0 note to self you could use .char().filter(ch -&gt; ch == 'a' .. etc).count()" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 3 correct 0_0 note to self you could use .char().filter(ch -&gt; ch == 'a' .. etc).count()" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LockheedMartinQuest$Problem04.ic" NAME="Problem04 Coverage Results" MODIFIED="1672800704973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
